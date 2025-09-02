@@ -1,7 +1,5 @@
 # 🎮 AluGames - Sistema de Aluguel de Jogos
 
-![Prévia do Projeto AluGames](./img/preview-alugames.png)
-
 ## 📜 Sobre o Projeto
 
 O AluGames é uma interface web interativa que simula a funcionalidade de aluguel e devolução de jogos de tabuleiro. Este projeto foi desenvolvido como um exercício prático para aprimorar a lógica de programação utilizando JavaScript puro (Vanilla JS).
